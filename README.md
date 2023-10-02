@@ -32,8 +32,11 @@ how the car used to look like
 The new and improved version of the car
 
 https://youtu.be/hmboYcxvmUo?si=pqLPuBethlsPEKkY
+
 https://youtube.com/shorts/9gX9v61nMAE?si=bQz9hlLYYNY0vemI
+
 https://youtu.be/MQhCHPPTMtU?si=rqBMimXdllex_tip
+
 https://youtu.be/NzCB1gIgOhM?si=UJeJu3lgBqi7SyrZ
 
 
