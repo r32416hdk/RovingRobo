@@ -36,6 +36,11 @@ https://youtu.be/hmboYcxvmUo?si=pqLPuBethlsPEKkY
 
 https://youtube.com/shorts/9gX9v61nMAE?si=bQz9hlLYYNY0vemI
 
+
+https://youtu.be/MQhCHPPTMtU?si=rqBMimXdllex_tip
+
+https://youtu.be/NzCB1gIgOhM?si=UJeJu3lgBqi7SyrZ
+
 Our Code: 
 - First We worked on the first round to make the robot move forward and avoid the walls and the other objects: 
 ![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/e5e2b220-a187-491e-a8eb-5998a23bc9ac)
@@ -56,8 +61,5 @@ Thank you ..
 
 
 
-https://youtu.be/MQhCHPPTMtU?si=rqBMimXdllex_tip
-
-https://youtu.be/NzCB1gIgOhM?si=UJeJu3lgBqi7SyrZ
-
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/e5dba001-d8ca-4526-892e-1039cc321e00)
 
