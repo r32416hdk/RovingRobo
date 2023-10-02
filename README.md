@@ -20,3 +20,20 @@ They decided to enable the vehicle’s back propulsion. They included the medium
 ![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/82239ed8-06ab-44cf-ac83-519d30a1f267)
 
 
+There were many different experiments when it comes to how the robot was shaped. In the beginning of the trials the team had made the robot longer and that caused it to have overly wide turns, and the robot had much trouble moving straight. Then they decided to make the robot smaller because it could move more easily. At first the color sensors were facing to the front and were acting as the “eyes” of the car. They quickly realized that it wasn’t the best idea, as the robot wasn’t sensing the colors from the sides. Later they thought of putting the color sensors on the sides so that anytime the car would pass by it would see the color. When they started making the robot turn, they noticed that the robot kept knocking over the blocks because it had no space to turn, the way they solved that problem was that they programmed the robot to move back then turn. That way the robot would have a plentiful of space to turn with ease. Because of its consistent weight distribution, this weight helps to increase traction, accelerate, and gives a better balance for the hub.
+
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/7dc02566-e4b7-42cc-936c-7ee5d42ea1c2)
+
+
+how the car used to look like 
+
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/7ac702d0-6ef8-4d5b-8496-7fb3032a0358)
+
+The new and improved version of the car
+
+https://youtu.be/hmboYcxvmUo?si=pqLPuBethlsPEKkY
+https://youtube.com/shorts/9gX9v61nMAE?si=bQz9hlLYYNY0vemI
+https://youtu.be/MQhCHPPTMtU?si=rqBMimXdllex_tip
+https://youtu.be/NzCB1gIgOhM?si=UJeJu3lgBqi7SyrZ
+
+
