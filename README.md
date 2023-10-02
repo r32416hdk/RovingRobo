@@ -1,4 +1,5 @@
 # RovingRobo
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/abe0f612-7c4e-4208-bfef-4602185c0c64)
 
 ![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/9304d6da-a569-4d62-b6bc-d12b02442f56)
 
@@ -34,6 +35,26 @@ The new and improved version of the car
 https://youtu.be/hmboYcxvmUo?si=pqLPuBethlsPEKkY
 
 https://youtube.com/shorts/9gX9v61nMAE?si=bQz9hlLYYNY0vemI
+
+Our Code: 
+- First We worked on the first round to make the robot move forward and avoid the walls and the other objects: 
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/e5e2b220-a187-491e-a8eb-5998a23bc9ac)
+
+
+- Second, we tried to make our robot avoid all the traffic light colors in a very smart way :) So we used functions to control the robot:
+
+
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/b6a9857c-2d08-4e6d-9ea5-2a31dabd5171)
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/ee30aee6-9747-44b7-ba04-3c97cb25dd1c)
+![image](https://github.com/r32416hdk/RovingRobo/assets/146734724/84b3f867-89bf-4918-852e-a0786b836998)
+
+Thank you .. 
+
+
+
+
+
+
 
 https://youtu.be/MQhCHPPTMtU?si=rqBMimXdllex_tip
 
